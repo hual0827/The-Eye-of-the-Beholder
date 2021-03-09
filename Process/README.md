@@ -3,7 +3,7 @@
 - First attempt at background images - good try
 ![road](https://user-images.githubusercontent.com/60019866/110398874-007f6080-8032-11eb-9835-f2c7cd7b1d33.jpg)
 - Temporary playtest instructions completed
-- music implemented
+- "Deathless" sound track implemented
 - combat mechanics complete
 
 # 3/02/2021 Update
